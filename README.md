@@ -1,6 +1,6 @@
 JDK (Java Development Kit) is a development for building applications and components using the Java programming Language
 
-MongoDBAtles - allows to spin up mongodb servers on the cloud, cloud service provider of your choice, (AWS, Azure, Google cloud)
+MongoDBAtlas - allows to spin up mongodb servers on the cloud, cloud service provider of your choice, (AWS, Azure, Google cloud)
 
 MongoDB Compass - Database client to connect with db
 
